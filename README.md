@@ -54,32 +54,6 @@ Capstone/
 - Power BI Desktop (per le dashboard)
 - Git (per il controllo versione)
 
-### Setup Ambiente
-
-1. **Clona il repository**
-```bash
-git clone [URL_REPOSITORY]
-cd Capstone
-```
-
-2. **Crea l'ambiente virtuale**
-```bash
-python -m venv Nba_env
-```
-
-3. **Attiva l'ambiente virtuale**
-```bash
-# Windows
-Nba_env\Scripts\activate
-
-# Linux/Mac
-source Nba_env/bin/activate
-```
-
-4. **Installa le dipendenze**
-```bash
-pip install -r requirements.txt
-```
 
 ## 📖 Utilizzo
 
