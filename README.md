@@ -15,12 +15,9 @@ Capstone/
 ├── BackupTabelleDataset/          # Backup dei dataset originali
 ├── DataPuliti/                    # Dataset puliti e pronti per l'analisi
 │   ├── Games.csv                  # Dati delle partite
-│   ├── LeagueSchedule24_25.csv    # Calendario stagione 2024-25
-│   ├── NBA_CityCoordinates_Found.csv  # Coordinate geografiche delle città
 │   └── ...                        # Altri dataset puliti
 ├── DataSetOriginale.csv/          # Dataset originali non modificati
 ├── FilePython/                    # Script Python per l'elaborazione dati
-│   ├── converti_coordinate_csv.py # Conversione coordinate
 │   ├── aggiorna_dataset_con_immagini_nba.py
 │   └── ...                        # Altri script di elaborazione
 ├── Grafici/                       # Output delle visualizzazioni
@@ -28,7 +25,6 @@ Capstone/
 │   ├── nba_champions_dashboard.png
 │   └── ...                        # Altri grafici e dashboard
 ├── Immagini_MVP_Finals/           # Immagini degli MVP
-├── Nba_env/                       # Ambiente virtuale Python
 ├── TextFile/                      # Documentazione e note
 └── requirements.txt               # Dipendenze Python
 ```
