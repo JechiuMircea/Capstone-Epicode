@@ -1,0 +1,48 @@
+city,latitude,longitude,found
+Atlanta,33.749,-84.388,True
+Baltimore,39.2904,-76.6122,True
+Boston,42.3601,-71.0589,True
+Brooklyn,40.7128,-74.006,True
+Buffalo,42.8864,-78.8784,True
+Capital,38.9072,-77.0369,True
+Charlotte,35.2271,-80.8431,True
+Chicago,41.8781,-87.6298,True
+Cincinnati,39.1031,-84.512,True
+Cleveland,41.4993,-81.6944,True
+Dallas,32.7767,-96.797,True
+Denver,39.7392,-104.9903,True
+Detroit,42.3314,-83.0458,True
+Fort Wayne,41.0793,-85.1394,True
+Ft. Wayne Zollner,41.0793,-85.1394,True
+Golden State,37.7749,-122.4194,True
+Houston,29.7604,-95.3698,True
+Indiana,39.7684,-86.1581,True
+Kansas City,39.0997,-94.5786,True
+Kansas City-Omaha,39.0997,-94.5786,True
+Los Angeles,34.0522,-118.2437,True
+Memphis,35.1495,-90.049,True
+Miami,25.7617,-80.1918,True
+Milwaukee,43.0389,-87.9065,True
+Minneapolis,44.9778,-93.265,True
+Minnesota,44.9778,-93.265,True
+New Jersey,40.0583,-74.4057,True
+New Orleans,29.9511,-90.0715,True
+New York,40.7128,-74.006,True
+Oklahoma City,35.4676,-97.5164,True
+Orlando,28.5383,-81.3792,True
+Philadelphia,39.9526,-75.1652,True
+Phoenix,33.4484,-112.074,True
+Portland,45.5152,-122.6784,True
+Rochester,43.1566,-77.6088,True
+Sacramento,38.5816,-121.4944,True
+San Antonio,29.4241,-98.4936,True
+San Diego,32.7157,-117.1611,True
+San Francisco,37.7749,-122.4194,True
+Seattle,47.6062,-122.3321,True
+St. Louis,38.627,-90.1994,True
+Syracuse,43.0481,-76.1474,True
+Toronto,43.6532,-79.3832,True
+Tri-Cities,,,False
+Utah,40.7608,-111.891,True
+Vancouver,49.2827,-123.1207,True
+Washington,38.9072,-77.0369,True
