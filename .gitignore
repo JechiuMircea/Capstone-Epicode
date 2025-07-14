@@ -5,6 +5,8 @@
 !.gitignore
 !README.md
 !requirements.txt
+!.gitattributes
+!*.pbix
 
 # And not the DataPuliti folder and its contents
 !DataPuliti/
