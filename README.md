@@ -111,16 +111,7 @@ Per contribuire al progetto:
 - **Separatore**: Virgola
 - **Formato**: CSV standard
 
-## 🐛 Risoluzione Problemi
 
-### Problema: Coordinate non riconosciute
-**Soluzione**: Esegui `converti_coordinate_csv.py` per convertire il formato.
-
-### Problema: Importazione Power BI
-**Soluzione**: Verifica che il separatore decimale sia il punto (.) e non la virgola (,).
-
-### Problema: Ambiente virtuale
-**Soluzione**: Assicurati di attivare l'ambiente virtuale prima di eseguire gli script.
 
 ## 📞 Supporto
 
